@@ -8,7 +8,7 @@
     // Get the current counter value
     let currentValue = parseInt(counterParagraph.textContent);
     // Display an alert with the current value
-    alert("Current Counter Value:  "  + currentValue);
+    alert('Current Counter Value:  '  + currentValue);
     // Increment the counter value
     currentValue++;
     // Update the counter paragraph with the new value
