@@ -1,5 +1,5 @@
 //your JS code here. If required.
-// Get references to the counter paragraph and the increment button
+ // Get references to the counter paragraph and the increment button
   const counterParagraph = document.getElementById('counter');
   const incrementButton = document.getElementById('incrementBtn');
 
@@ -17,4 +17,3 @@
 
   // Attach click event listener to the increment button
   incrementButton.addEventListener('click', incrementCounter);
-</script>
